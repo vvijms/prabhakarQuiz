@@ -1,15 +1,13 @@
 
 
 var questions = [
-    new Question("What is the Capital of India?", ["New Delhi", "Mumbai","Jaipur", "Kolkata"], "New Delhi"),
+	
+	  new Question("who is Sonu Solanki's best friend?", ["Sanjay", "Prabhakar","Vivek", "Rehana","Kavya"], "Prabhakar"),
+    new Question("What is Sonu Solanki's favourite dish?", ["Rajma chawal", "Chole Bhture","Masala Dosa", "Egg Curry"], "Chole Bhture"),
 
-    new Question("National Animal of India?", ["Elephant", "Bengal Tiger","Lion", "Cow"], "Bengal Tiger"),
+    new Question("What is Sonu Solanki's Hobby?", ["watching Movie", "Playing Cricket","Travelling", "Making Friends"],"watching Movie"),
     
 
-    new Question("National River of India?", ["Yamuna", "Ganga","Brahmputra", "Sindhu"], "Ganga"),
-    
-
-    new Question("Currency of India?", ["Dollar", "Rupee","Euro", "Pound"], "Rupee"),
         
 
 ];
