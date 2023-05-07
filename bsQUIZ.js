@@ -1,14 +1,14 @@
 
 
 var questions = [
-	
+	new Question("who is Sonu Solanki's best friend?", ["Sanjay", "Prabhakar","Vivek", "Rehana"], "Prabhakar"),
     new Question("What is Sonu Solanki's favourite dish?", ["Rajma chawal", "Chole Bhture","Masala Dosa", "Egg Curry"], "Chole Bhture"),
 
     new Question("What is Sonu Solanki's Hobby?", ["watching Movie", "Playing Cricket","Travelling", "Making Friends"],"watching Movie"),
     
-	  new Question("who is Sonu Solanki's best friend?", ["Sanjay", "Prabhakar","Vivek", "Rehana"], "Prabhakar"),
+	  
 
-        
+         new Question("What is Sonu Solanki's favourite food?", ["Non veg", "vegetarian","eggatarian", "omnivorous"], "eggatarian"),
 
 ];
 
